@@ -1,9 +1,8 @@
 **🍽️ Swiggy Restaurant Recommendation System using Streamlit**
 
-               This project is a restaurant recommendation engine designed using a real-world Swiggy dataset. It enables users to receive restaurant suggestions 
-               based on their preferences such as city, rating, cuisine, and cost. 
+This project is a restaurant recommendation engine designed using a real-world Swiggy dataset. It enables users to receive restaurant suggestions  based on their preferences such as city, rating, cuisine, and cost. 
                
-               Built using Python and Streamlit, the application demonstrates the full data science pipeline from cleaning to deployment. 
+Built using Python and Streamlit, the application demonstrates the full data science pipeline from cleaning to deployment. 
 
 **🚀 Project Overview**
 
